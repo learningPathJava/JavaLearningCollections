@@ -1,13 +1,0 @@
-
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(á‘òƒ8•öÎ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Š—™è8ÙÓèõÎ.
-]	java:S125"<This block of commented-out lines of code should be removed.(ûÓËıÿÿÿÿ8ØÉÊöÎ.
-T	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ŠÍöõÎ.
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(„¸Ò8¥€ÿõÎ.
-U	java:S106,"9Replace this use of System.out or System.err by a logger.(Ğ€Çß8·é‚öÎ.
-Z	java:S1062"9Replace this use of System.out or System.err by a logger.(îÍ±©øÿÿÿÿ8¾“™öÎ.
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(îÍ±©øÿÿÿÿ8÷†ıõÎ.
-L
-java:S3740:"/Provide the parametrized type for this generic.(ÙÙĞ¶8€èÕöÎ.
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8€èÕöÎ.
